@@ -104,8 +104,3 @@ Pkg.add("Printf")
 * `run_full_simulation()`
   * シミュレーション全体を実行するメイン関数です。
   * 上記の2つのグラフに対応するデータを計算し、`Plots.jl` を用いて結果をプロットし、`renormalization_plots.png` として保存します。
-
-## 📄 ライセンス
-
-このプロジェクトはMITライセンスの下で公開されています。
-
